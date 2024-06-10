@@ -1,0 +1,29 @@
+BITMASKS
+Bitmasks need good understanding of binary and bitwise operations, which I am not familiar with. This makes interpretation and manipulation of specific bits very difficult.
+
+BINARY HEAPS
+Binary heaps are hard to understand because they involve maintaining the structure of the heap during 'heapify' operations while performing operations like insertions and deletions; which is challenging.
+Also, the binary heap's array representation and the parent-child index relationships makes it more complex.
+
+UNION FIND DS
+Union-Find data structures are challenging to master because they involve union and find operations, which rely on complex techniques like path compression and union by rank. These concepts all need further study and understanding.
+
+FENWICK TREES
+Fenwick Trees/Binary Indexed Trees are hard to understand because they use binary representation to handle prefix sums and updates. The indexing and bit manipulation involved in calculating cumulative frequencies and making updates is quite hard. 
+
+MIN SPANNING TREES
+Minimum Spanning Trees involve use of algortihms such as Kruskal's and Prim's, which involve complex steps such as sorting edges, handling priority queues, and managing disjoint sets. These are necessary so as to find the subset of edges that connect all vertices in a weighted graph with the smallest possible total weight.
+These intertwined concepts require further time to understand.
+
+SUFFIX TREES
+Suffix trees are hard to understand because they involve constructing a complex tree structure that represents all suffixes of a string. The construction algorithms, like Ukkonen's algorithm, are complex and require handling numerous edge cases efficiently. Understanding how to build and traverse the tree, while managing space and ensuring linear time complexity, demands a deep knowledge of string processing and advanced algorithmic techniques.
+
+SEGMENT TREES
+Segment trees complex because the process of constructing the tree, handling range queries, and performing updates requires understanding how to split and merge ranges. Additionally, implementing advanced features like lazy propagation to optimize updates adds further complexity, making the concepts difficult to grasp initially.
+
+CYCLE SORTING
+Cycle sorting is challenging to understand because it involves repeatedly finding cycles of elements and sorting them in place. The process of identifying cycles, determining their length, and performing swaps to sort them requires careful attention to detail.
+
+
+
+
